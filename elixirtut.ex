@@ -1,5 +1,7 @@
 defmodule M do
 
+  #source: https://www.youtube.com/watch?v=pBNOavRoNL0
+
   # Run functions with M.<func name> in iex-terminal
   # > M.main # runs whatever is in main()
   def main do
